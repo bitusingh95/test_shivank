@@ -1,0 +1,42 @@
+[33mcommit 6abb99266cdf743bc751f91a95c1d9a524391859[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 12:08:11 2024 +0530
+
+    new file
+
+[33mcommit aa1e6786bf9376fdb0c8e5577f73cf9f457cff37[m[33m ([m[1;31morigin2/main[m[33m, [m[1;31morigin1/master[m[33m)[m
+Merge: f5464bd 4d46c60
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 09:52:38 2024 +0530
+
+    merge completed between all the branches
+
+[33mcommit 4d46c60ad6f38beb569a11b110e6bb6b76ff1323[m[33m ([m[1;31morigin2/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 09:51:31 2024 +0530
+
+    final comment added by feature branch
+
+[33mcommit f5464bd65446bd9adbb1f138323560588f72afa9[m
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 09:49:59 2024 +0530
+
+    new feature removed
+
+[33mcommit cb6cdd312d31a1d8533828dc007836f50a9dd3e0[m
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 09:47:03 2024 +0530
+
+    new line added
+
+[33mcommit 30620cf07d9c9e35d4245025ee06359a71ff27b1[m
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 09:45:16 2024 +0530
+
+    new line added
+
+[33mcommit 8f1f3f600c182a3b4e75d3593d48432a469efa25[m
+Author: bksingh <bitu.bks@gmail.com>
+Date:   Sun Sep 1 09:44:08 2024 +0530
+
+    index file added
